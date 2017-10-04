@@ -65,7 +65,7 @@ public void computerPlay()
 
     }
     tempComputerScore=0;
-    int xa=0;
+    int xaa=0;
     HumanTurn=true;
 
 }
